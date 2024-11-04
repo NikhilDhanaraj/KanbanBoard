@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import Main from '../Components/Main';
 
 class App extends React.Component {
